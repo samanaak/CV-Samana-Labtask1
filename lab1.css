@@ -1,0 +1,68 @@
+.Title {
+    color:white; 
+    font-size: 40px;  
+    height: 50px;
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+    width: 350px;
+    left: 150px;
+    text-decoration: underline;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri';
+
+}
+#unknownPic{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 80px;
+    top: 20px;
+    border-radius: 40px;
+
+   
+}
+
+
+
+.Contact {
+    display: inline-block;
+    margin-left: 320px;
+    position: relative;
+    left: 50px;
+    height: 150px;
+   
+    width: 300px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri';
+   
+  
+}
+
+.topDiv{
+    height: 130px;
+    background-color: black;
+}
+
+#objective{
+    text-align: center;
+    height: 100px;
+    width: 750px;
+    margin-left: 250px;
+    position: relative;
+    top:20px;
+
+}
+
+.heading1{
+    
+    color: black;
+    text-decoration: underline;
+    width:1250px;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri';
+}
+
+.heading2{
+    color: black;
+    text-decoration: underline;
+}
